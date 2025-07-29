@@ -1,0 +1,31 @@
+{
+    "name": "evtgame/evtdat",
+    "description": "event dat creat ab",
+    "type": "library",
+    "keywords": ["dat","creat"],    
+    "homepage": "https://github.com/Wang-Jialian/evtdat",    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wang-Jialian",
+            "email": "okpc4321@gmail.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],    
+    "version": "1.0.0",
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Evtgame\\Evtdat\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
+
+
