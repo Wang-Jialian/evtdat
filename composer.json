@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Evtgame\\Evtdat\\": "src/"
+            "Evtgame\\": "src/"
         }
     },
     "minimum-stability": "dev"
