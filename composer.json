@@ -2,7 +2,7 @@
     "name": "evtgame/evtdat",
     "description": "event dat creat ab",
     "type": "library",
-    "keywords": ["dat","creat"],    
+    "keywords": ["game run dat","Program run dat"],    
     "homepage": "https://github.com/Wang-Jialian/evtdat",    
     "license": "MIT",
     "authors": [
@@ -13,8 +13,7 @@
             "role": "Developer"
         }
     ],    
-    "version": "v2.0.0",
-    "require": {
+      "require": {
         "php": ">=8.0.0"
     },
     "require-dev": {
